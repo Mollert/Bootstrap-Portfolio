@@ -1,0 +1,87 @@
+body {
+	background: #ffffff;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	color: #777777;
+}
+
+.who {
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	background: #4aaaa5;
+	color: white;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	height: 80px;
+	width: 240px;
+	margin-left: 80px;
+	padding-top: 4px;
+}
+
+.pull-left {
+	padding-right: 16px;
+	padding-bottom: 12px;
+}
+
+.nav-pills {
+	color: #777777;
+	padding-top: 10px;
+	line-height: 40px;
+	font-size: 16px;
+}
+
+ul li a {
+	color: #777777;
+}
+
+.body {
+	background: #dddddd;
+	border-bottom: 10px solid #4aaaa5;
+}
+
+.space {
+	height: 40px;
+}
+
+.about-me,
+.portfolio,
+.contact,
+.connect-me {
+	background: #ffffff;
+	padding: 16px;
+}
+
+.inside {
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
+.about-me h2,
+.portfolio h2,
+.contact h2,
+.connect-me h3{
+	color: #4aaaa5;
+}
+
+.connect-me a {
+	padding-left: 6px;
+}
+
+.pic-label p {
+	width: 94%;
+	padding: 2px;
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+}
+
+.btn-primary {
+	background-color: #4aaaa5;
+}
+
+.footer {
+	background: #666;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 30px;
+	color: white;
+}

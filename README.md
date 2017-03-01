@@ -1,2 +1,1 @@
-# Bootstrap-Portfolio
-Assignment number 2-Bootstrap
+Here is my submission of the Bootstrap-Portfolio.  I found this very difficult to set up the html.  When you use "rows", can you use "rows-contact"?  A whole lot of classes and div's.  And you still need a full css file.  Also, out of the box you don't have the fine adjustment for rows and columns without going back to CSS again.  If it wasn't for it automatic responsive ability, I would prefer the full control vs. Bootstrap.
